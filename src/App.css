@@ -1,0 +1,6 @@
+.home {
+    background: white;
+    z-index: 1;
+    font-size: 12px;
+    transform: translate(20px, -6px);
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="MDI_filter" data-name="MDI / filter" opacity="0.6">
+    <g id="Boundary" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_filter" data-name="Path / filter" d="M14,12v7.88a.959.959,0,0,1-.29.83,1,1,0,0,1-1.41,0L10.29,18.7a.989.989,0,0,1-.29-.83V12H9.97L4.21,4.62a1,1,0,0,1,.17-1.4A1.042,1.042,0,0,1,5,3H19a1.042,1.042,0,0,1,.62.22,1,1,0,0,1,.17,1.4L14.03,12Z" transform="translate(0.001)"/>
+  </g>
+</svg>

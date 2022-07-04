@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="53.74" height="53.74" viewBox="0 0 53.74 53.74">
+  <g id="MDI_thermometer-plus" data-name="MDI / thermometer-plus" transform="translate(26.87 0.35) rotate(45)" opacity="0.6">
+    <g id="Boundary" transform="translate(-0.248 -0.248)" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="38" height="38" stroke="none"/>
+      <rect x="0.5" y="0.5" width="37" height="37" fill="none"/>
+    </g>
+    <path id="Path_thermometer-plus" data-name="Path / thermometer-plus" d="M30.5,17.9V8H23.9v9.9H14v6.6h9.9v9.9h6.6V24.5h9.9V17.9" transform="translate(-8.451 -2.452)"/>
+  </g>
+</svg>

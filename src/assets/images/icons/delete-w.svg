@@ -1,0 +1,7 @@
+<svg id="MDI_delete" data-name="MDI / delete" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Boundary" fill="#ffffff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="24" height="24" stroke="none"/>
+    <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+  </g>
+  <path id="Path_delete" data-name="Path / delete" d="M19,4H15.5l-1-1h-5l-1,1H5V6H19M6,19a2,2,0,0,0,2,2h8a2,2,0,0,0,2-2V7H6Z" fill="#ffffff"/>
+</svg>

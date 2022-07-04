@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\Desktop\\learning git file"
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"git.ignoreLimitWarning": true
+	}
+}
